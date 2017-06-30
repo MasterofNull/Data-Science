@@ -1,2 +1,2 @@
-# Data-Science
-Course, Tests and Examples from Udemy Data Science course. 
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
